@@ -1,0 +1,17 @@
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.deps.json
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.dll
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.pdb
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.dll
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/refint/EsepWebhook.dll
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.pdb
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll
