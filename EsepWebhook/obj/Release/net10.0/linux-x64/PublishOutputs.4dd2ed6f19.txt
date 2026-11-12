@@ -3,4 +3,5 @@
 /Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.pdb
 /Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/publish/Amazon.Lambda.Core.dll
 /Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/publish/Newtonsoft.Json.dll
 /Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.dll

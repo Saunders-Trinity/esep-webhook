@@ -15,3 +15,5 @@
 /Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.pdb
 /Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/bin/Release/net10.0/linux-x64/Newtonsoft.Json.dll
+/Users/trinitysaunders/Documents/GitHub/esep-webhook/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.sourcelink.json
